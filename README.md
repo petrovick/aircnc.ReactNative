@@ -6,7 +6,7 @@ Real time App that allows companies to create events and accept/reject developer
 
 [Click here to go to the app's frontend.][frontend]
 
-## App's Mobile
+## App's Backend
 
 [Click here to go to app's backend(Server).][server]
 
